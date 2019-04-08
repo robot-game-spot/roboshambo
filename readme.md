@@ -29,4 +29,4 @@ Relax, it is only a human game. We will replace them soon enough. Let them belie
 
 ## Link to RoboShamBo "Smart Contracts"
 
-RoboShamBo Ethereum: 
+RoboShamBo Ethereum: [roboshambo.sol](roboshambo.sol)
